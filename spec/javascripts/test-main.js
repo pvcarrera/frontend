@@ -32,6 +32,7 @@ require.config({
     // Dough components
     ClearInput: 'app/assets/javascripts/components/ClearInput',
     Newsletter: 'app/assets/javascripts/components/Newsletter',
+    EmbedCodeGenerator: 'app/assets/javascripts/components/EmbedCodeGenerator',
 
     rsvp: 'vendor/assets/bower_components/rsvp/rsvp',
 

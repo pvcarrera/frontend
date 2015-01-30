@@ -513,3 +513,11 @@ cy:
     call_us: Call us on
     phone_number: "tel:+44800268986"
     phone_number_readable: 0800 268 986
+
+  corporate:
+    partnerships:
+      index:
+      syndication:
+        english: English
+        welsh: Welsh
+        submit: Get embed code

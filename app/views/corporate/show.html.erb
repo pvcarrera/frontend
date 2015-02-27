@@ -11,10 +11,6 @@
     <main class="l-main__cell-full" role="main" data-dough-newsletter-article="true">
       <%= heading_tag article.title %>
 
-      <% unless @newsletter_excluded %>
-        <%= render 'shared/news_signup_test' %>
-      <% end %>
-
       <div class="editorial">
       <%= article.content %>
       </div>
